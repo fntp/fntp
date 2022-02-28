@@ -1,110 +1,146 @@
 {
-  "avatar": {
-    "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
-    "hidden": false
-  },
-  "profile": {
-    "name": "廖晓娟 (新茗)",
-    "email": "736****86@qq.com",
-    "mobile": "156********",
-    "github": "https://github.com/visiky",
-    "zhihu": "https://www.zhihu.com/people/visiky",
-    "workExpYear": "",
-    "positionTitle": "数据可视化·前端工程师"
-  },
-  "educationList": [
-    {
-      "edu_time": ["2014.09.01", "2018.06.30"],
-      "school": "华南理工大学",
-      "major": "网络工程",
-      "academic_degree": "本科"
-    }
-  ],
-  "awardList": [
-    {
-      "award_info": "英语 CET6",
-      "award_time": "2015"
-    },
-    {
-      "award_info": "蚂蚁近卫军 卓越个人奖",
-      "award_time": "2018.09"
-    },
-    {
-      "award_info": "前端练习生 可视化讲师",
-      "award_time": "2020.10"
-    },
-    {
-      "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-      "award_time": "2021.07"
-    }
-  ],
-  "workExpList": [
-    {
-      "company_name": "蚂蚁集团",
-      "department_name": "体验技术部",
-      "work_time": ["2018.06", null],
-      "work_desc": "1. 担任蚂蚁高管决策和管理协同产品 “数据作战室” 的前端负责人\r\n2. 负责蚂蚁敏捷 BI 产品 “DeepInsight” 的可视分析模块产品能力建设\n3. 数据可视化 AntV 团队核心成员，负责 G2、G2Plot 开源技术的建设"
-    },
-    {
-      "company_name": "蚂蚁金服",
-      "department_name": "大数据部",
-      "work_time": ["2017.06", "2017.12"],
-      "work_desc": "前端实习生。使用 React 参与开发多类产品：数据研发平台、数据决策平台、数据分析平台的研发工作，同时也参与大型 BI 产品的重构工作，有良好的编码习惯。"
-    },
-    {
-      "company_name": "数沃信息科技有限公司",
-      "department_name": "",
-      "work_time": ["2017.03", "2017.05"],
-      "work_desc": "前端实习生。使用 Vue 来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示"
-    }
-  ],
-  "skillList": [
-    {
-      "skill_name": "HTML 和 CSS",
-      "skill_desc": "",
-      "skill_level": 89
-    },
-    {
-      "skill_name": "TypeScript / JavaScript",
-      "skill_desc": "熟悉 TypeScript，丰富的 ts 项目经验",
-      "skill_level": 90
-    },
-    {
-      "skill_name": "数据可视化",
-      "skill_desc": "丰富的可视化工程实践以及开源经验",
-      "skill_level": 90
-    },
-    {
-      "skill_name": "React / 前端工程化",
-      "skill_desc": "大型前端项目经验以及组件库开发经验",
-      "skill_level": 85
-    }
-  ],
-  "projectList": [
-    {
-      "project_name": "数据作战室",
-      "project_role": "前端负责人",
-      "project_time": "2019.04 - 2020.06",
-      "project_desc": "面向总裁和高管以及决策 BI 的数字化经营决策和管理协同产品。提供一站式的数据化经营决策和管理协同功能，让高管高效获取决策信息，并提升管理效率。",
-      "project_content": "1. 项目从0到1的框架设计和开发 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
-    },
-    {
-      "project_name": "DeepInsight",
-      "project_role": "可视分析负责人",
-      "project_time": "2018.07 - 2019.04 / 2020.07 - 至今",
-      "project_desc": "DeepInsight 是蚂蚁集团自主研发的自助式 BI 数据洞察分析平台，面向企业分析人员、业务人员和开发人员，帮助蚂蚁集团实现精细化运营。",
-      "project_content": "BI 平台工具核心部分是报表制作，也就是通过数据连接、可视化配置形成图表物料之后，通过拖拽方式进行页面编排，最终形成报表页面进行发布的过程。\n1. 主导开放能力建设，拉通产品、设计建设和扩展可视化图形，提升丰富度\n2. 产品体验优化，尤其是对 ECharts 的体验顽疾进行攻克\n3. 主导可视化能力建设：业务标准化图表库建设(通用组件设计和开发经验丰富)、促进数据分析能力增强等可视化一体化建设"
-    },
-    {
-      "project_name": "G2、G2Plot",
-      "project_role": "核心开发者",
-      "project_time": "2019 - 至今",
-      "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库",
-      "project_content": "AntV 可视化建设，赋能整个蚂蚁和阿里集团统计可视化分析相关业务。负责 AntV 系列: AntV 官网、G 渲染引擎、 G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作。"
-    }
-  ],
-  "workList": [],
-  "aboutme": {
-    "aboutme_desc": "🌱 Focus on data visualization and analysis\n😈 能力项：沟通协调能力、执行力\n自驱型前端工程师，三年多大型复杂产品开发经验，负责蚂蚁集团 BI 产品 DeepInsight 的可视化建设，参与了从图表库到 BI 产品力的一体化建设，对商业智能领域的数据可视化建设有较为丰富的经验。\n参与 AntV 团队开源项目 G2、G2Plot 的研发，目前是 G2Plot 的主要负责人。"
-  }
+	"titleNameMap": {
+		"educationList": "教育背景",
+		"workExpList": "工作经历",
+		"projectList": "项目经历",
+		"skillList": "个人技能",
+		"awardList": "更多信息",
+		"workList": "个人作品",
+		"aboutme": "自我介绍"
+	},
+	"avatar": {
+		"hidden": false
+	},
+	"profile": {
+		"name": "孙程鑫",
+		"email": "358566760@qq.com",
+		"mobile": "13275783750",
+		"github": "https://github.com/fntp",
+		"zhihu": "https://blog.csdn.net/weixin_44085593",
+		"workExpYear": "半年",
+		"workPlace": "浙江杭州",
+		"positionTitle": "Java后端工程师"
+	},
+	"educationList": [
+		{
+			"edu_time": "2018.09.01,2022.06.30",
+			"school": "大庆师范学院",
+			"major": "软件工程",
+			"academic_degree": "本科",
+			"dataIndex": 0
+		}
+	],
+	"awardList": [
+		{
+			"award_info": "英语 CET4",
+			"award_time": "2019",
+			"dataIndex": 0
+		},
+		{
+			"award_info": "蚂蚁近卫军 卓越个人奖",
+			"award_time": "2018.09",
+			"dataIndex": 1
+		},
+		{
+			"award_info": "前端练习生 可视化讲师",
+			"award_time": "2020.10"
+		},
+		{
+			"award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
+			"award_time": "2021.07"
+		}
+	],
+	"workExpList": [
+		{
+			"company_name": "蚂蚁集团",
+			"department_name": "体验技术部",
+			"work_time": [
+				"2018.06",
+				null
+			],
+			"work_desc": "1. 担任蚂蚁高管决策和管理协同产品 “数据作战室” 的前端负责人\r\n2. 负责蚂蚁敏捷 BI 产品 “DeepInsight” 的可视分析模块产品能力建设\n3. 数据可视化 AntV 团队核心成员，负责 G2、G2Plot 开源技术的建设"
+		},
+		{
+			"company_name": "蚂蚁金服",
+			"department_name": "大数据部",
+			"work_time": [
+				"2017.06",
+				"2017.12"
+			],
+			"work_desc": "前端实习生。使用 React 参与开发多类产品：数据研发平台、数据决策平台、数据分析平台的研发工作，同时也参与大型 BI 产品的重构工作，有良好的编码习惯。"
+		},
+		{
+			"company_name": "数沃信息科技有限公司",
+			"department_name": "",
+			"work_time": [
+				"2017.03",
+				"2017.05"
+			],
+			"work_desc": "前端实习生。使用 Vue 来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示"
+		}
+	],
+	"skillList": [
+		{
+			"skill_name": "HTML 和 CSS",
+			"skill_desc": "",
+			"skill_level": 89
+		},
+		{
+			"skill_name": "TypeScript / JavaScript",
+			"skill_level": 90
+		},
+		{
+			"skill_name": "数据可视化",
+			"skill_desc": "丰富的可视化工程实践以及开源经验",
+			"skill_level": 90
+		},
+		{
+			"skill_name": "React / 前端工程化",
+			"skill_desc": "大型前端项目经验以及组件库开发经验",
+			"skill_level": 80
+		}
+	],
+	"projectList": [
+		{
+			"project_name": "数据作战室",
+			"project_role": "前端负责人",
+			"project_time": "2019.04 - 2020.06",
+			"project_desc": "面向总裁和高管以及决策 BI 的数字化经营决策和管理协同产品。提供一站式的数据化经营决策和管理协同功能，让高管高效获取决策信息，并提升管理效率。",
+			"project_content": "1. 项目从0到1的框架设计和开发 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
+		},
+		{
+			"project_name": "DeepInsight",
+			"project_role": "可视分析负责人",
+			"project_time": "2018.07 - 2019.04 / 2020.07 - 至今",
+			"project_desc": "DeepInsight 是蚂蚁集团自主研发的自助式 BI 数据洞察分析平台，面向企业分析人员、业务人员和开发人员，帮助蚂蚁集团实现精细化运营。",
+			"project_content": "BI 平台工具核心部分是报表制作，也就是通过数据连接、可视化配置形成图表物料之后，通过拖拽方式进行页面编排，最终形成报表页面进行发布的过程。\n1. 主导开放能力建设，拉通产品、设计建设和扩展可视化图形，提升丰富度\n2. 产品体验优化，尤其是对 ECharts 的体验顽疾进行攻克\n3. 主导可视化能力建设：业务标准化图表库建设(通用组件设计和开发经验丰富)、促进数据分析能力增强等可视化一体化建设"
+		},
+		{
+			"project_name": "G2、G2Plot",
+			"project_role": "核心开发者",
+			"project_time": "2019 - 至今",
+			"project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库",
+			"project_content": "AntV 可视化建设，赋能整个蚂蚁和阿里集团统计可视化分析相关业务。负责 AntV 系列: AntV 官网、G 渲染引擎、 G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作。"
+		}
+	],
+	"workList": [
+		{
+			"work_name": "鑫软晨报",
+			"work_desc": "基于Jsoup+Eclipse-SWT框架实现时事热点新闻爬取",
+			"visit_link": "https://blog.csdn.net/weixin_44085593/article/details/107992487?spm=1001.2014.3001.5501"
+		},
+		{
+			"work_name": "顶点音乐",
+			"work_desc": "基于Jsoup实现歌曲信息爬取，以及Mybatis实现用户信息记录",
+			"visit_link": "https://stickpoint.github.io/ddmsuic.github.io/",
+			"dataIndex": 1
+		}
+	],
+	"aboutme": {
+		"aboutme_desc": "🌱 Focus on data visualization and analysis \n能力评价：沟通协调能力、执行力强，自学觉悟搞，知识悟性高。\n获奖经历：在校三年时间内，从大一开始就一直在计算机楼机房实验室自学计算机知识，大二下学期截止，自学完成了大学四年的考试科目课程，并在大二结束，大三的第一个学期正式拿到了2020年度全学院为此一名的国家奖学金，获得2020年度大庆师范学院铁人式学习标兵称号，囊括一等奖学金，国家励志奖学金，优秀学生干部，三好学生，优秀团员，校级文明学生等称号，获得黑龙江省第五届互联网+创新创业大赛黑龙江省银奖，业余时间爱好中国文学，曾获得黑龙江省大庆油田文学奖三等奖，大庆市蒲公英文学奖三等奖，以上获奖信息可联系学校、相关部分组织核实。\n英语水平：四级\n自学经历：自学意识很强，初中开始接触计算机编程，从基于Java的脚本语言裕语言开始自学编程，后逐渐学习Java，Python等语言，由于大学教师授课范围有限，大一开始相继自己自学了Eclipse-SWT桌面GUI框架，自学了Web开放平台API接入，自学JMail邮件，自学了微信小程序开发（期间曾为海伦市教育局制作在线预约报名微信小程序），自学了Vue前端框架（使用），自学了MySQL，自学了SQLLITE（安卓），自学了Redis，自学了Spring技术，自学了SpringBoot+JavaFX桌面开发（熟练），自学JavaSwing-2D绘制海报，基于Servlet实现了简易网上商城，自学了Jsoup+HtmlUnit爬虫技术，实现了JavaML-KMeans分类聚类数据分析，自学了安卓开发（2021年春开发了顶点音乐，GitHub可搜），基于爬虫与数据分析制作了当乐网用户游戏数据爬虫分析，基于爬虫制作了钉钉企业联系信息爬取案例，自学Zookeeper，Spring企业开发技术基本来自B站免费的黑马视频一套。2021年七月20日后，仅靠复习了Java基础知识后入职于浙江省盈盈集团-后端Java开发岗，期间自学了WebSocket与Netty的基本知识，后独立负责开发了公司证券行情数据推送的Ws（WebSocket）推送服务端，负责APP简况模块的数据开发，独立设计并完成了盈盈证券后台管理系统的后端开发。"
+	},
+	"theme": {
+		"color": "#2f5785",
+		"tagColor": "#8bc34a"
+	}
 }
