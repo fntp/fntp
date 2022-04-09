@@ -37,17 +37,37 @@
 			"dataIndex": 0
 		},
 		{
-			"award_info": "蚂蚁近卫军 卓越个人奖",
-			"award_time": "2018.09",
+			"award_info": "黑龙江省创新创业大赛省级二等奖",
+			"award_time": "2019.08",
 			"dataIndex": 1
 		},
 		{
-			"award_info": "前端练习生 可视化讲师",
+			"award_info": "大庆师范学院国家励志奖学金",
+			"award_time": "2019.10"
+		},
+		{
+			"award_info": "大庆师范学院国家奖学金",
 			"award_time": "2020.10"
 		},
 		{
-			"award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-			"award_time": "2021.07"
+			"award_info": "大庆师范学院校级文明学生",
+			"award_time": "2020.04"
+		},
+		{
+			"award_info": "大庆师范学院一等奖学金",
+			"award_time": "2019.10"
+		},
+		{
+			"award_info": "大庆师范学院优秀学生干部",
+			"award_time": "2020.10"
+		},
+		{
+			"award_info": "大庆师范学院三好学生",
+			"award_time": "2019.10"
+		},
+		{
+			"award_info": "大庆师范学院优秀团员",
+			"award_time": "2020.04"
 		}
 	],
 	"workExpList": [
